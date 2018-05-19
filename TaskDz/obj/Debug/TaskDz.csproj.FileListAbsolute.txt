@@ -1,0 +1,15 @@
+c:\users\djoni\source\repos\TaskDz\TaskDz\bin\Debug\TaskDz.exe.config
+c:\users\djoni\source\repos\TaskDz\TaskDz\bin\Debug\TaskDz.exe
+c:\users\djoni\source\repos\TaskDz\TaskDz\bin\Debug\TaskDz.pdb
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.csprojResolveAssemblyReference.cache
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\MainWindow.g.cs
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\App.g.cs
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz_MarkupCompile.cache
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz_MarkupCompile.lref
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\MainWindow.baml
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.g.resources
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.Properties.Resources.resources
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.csproj.GenerateResource.Cache
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.csproj.CoreCompileInputs.cache
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.exe
+c:\users\djoni\source\repos\TaskDz\TaskDz\obj\Debug\TaskDz.pdb
